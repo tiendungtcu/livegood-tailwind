@@ -1,0 +1,136 @@
+{
+  "validation": {
+    "permissionDenied": "Permission Denied.",
+    "objectNotFound": "Can't find the item.",
+    "somethingWentWrong": "Something went wrong.",
+    "noNetwork": "インターネット接続がありません。",
+    "invalidField": "無効な形式です。",
+    "requiredField": "この項目は入力必須です。",
+    "completed": "完了しました。",
+    "deleteSuccessfully": "削除しました。",
+    "resendSuccessfully": "メールを正常に再送信する。",
+    "existedEmail": "このメールアドレスは既に登録されています。",
+    "notExistEmail": "正しいメールアドレスを入力してください。",
+    "notSetFirstPassword": "パスワードが設定されていません。",
+    "invalidLogin": "ログインに失敗しました。メールアドレス、またはパスワードが間違っています",
+    "verifyEmail": "認証メールをご確認のうえ、本登録を完了してください。",
+    "requiredEmail": "メールアドレスを入力してください",
+    "verifySuccess": "メールアドレス認証が完了しました。",
+    "expiredInvitation": "招待の期限が過ぎています。",
+    "invalidCurrentPassword": "現在のパスワードが間違っています。",
+    "sameOldPassword": "現在のパスワードと同じパスワードは設定できません。",
+    "notMatchedPasswords": "パスワードが一致しません。",
+    "notMatchedEmails": "メールアドレスが一致しません。",
+    "notAllowedWhiteSpace": "空白文字は使用できません。",
+    "changePasswordSuccess": "パスワードを変更しました。",
+    "invalidBirthday": "有効な生年月日ではありません。",
+    "invalidPhoneNumber": "正しい電話番号を入力してください。",
+    "invalidUrl": "有効なURLを入力してください。",
+    "submitSuccess": "評価が完了しました。",
+    "expiredEvaluation": "評価は送信済みです。",
+    "changeEmailSuccess": "メールの変更が成功しました。",
+    "passwordRule": "パスワードは 8 ～ 12 文字である必要がありますおよび英数字のみ",
+    "maxLength": "{{number}}文字以内で入力してください",
+    "itemDeleted": "項目を削除しました",
+    "invalidFileSize": "{{size}}MB以内の画像を指定してください。",
+    "invalidCardNumber": "カードの番号が無効です。",
+    "invalidExp": "カードの有効期限として指定した年が無効です。",
+    "invalidCvc": "指定したカードのセキュリティコードが無効です。",
+    "addCardSuccess": "お支払い方法を追加しました",
+    "setPrimarySuccess": "デフォルトカードを変更しました",
+    "deleteCardSuccess": "お支払い方法を削除しました",
+    "confirmPaymentSuccess": "決済が完了しました",
+    "changeCardSuccess": "お支払い方法を変更しました"
+  },
+  "register": {
+    "title": "会員登録",
+    "emailAdress": "メールアドレス",
+    "verifyEmail": "無効な形式です",
+    "requiredEmail": "メールアドレスを入力してください",
+    "confirmEmailAddress": "メールアドレス（確認用）",
+    "requiredConfirmEmail": "メールアドレスを入力してください",
+    "password": "パスワード（10文字以上の半角英数記号）",
+    "verifyPassword": "10文字以上で入力してください",
+    "requiredPassword": "パスワードを入力してください",
+    "confirmPassword": " パスワード（確認用）",
+    "requiredConfirmPassword": "パスワードを入力してください",
+    "registerBtn": "登録する",
+    "registerNow": "新規会員登録はこちら"
+  },
+  "registerCompleted": {
+    "title": "会員仮登録完了",
+    "description": "ご入力いただいたメールアドレスに認証メールを送信しました。メール本文に記載された認証URLをクリックし、本登録を完了してください。    ",
+    "descriptionExtra": "＊会員登録はまだ完了していません",
+    "backToHomeBtn": "ホームへ戻る",
+    "notification_1": "会員登録が完了しました。",
+    "notification_2": "右上のボタンからプロフィール情報の登録をお願いいたします。"
+  },
+  "policy": {
+    "clarify": "下記ボタンを押すことで、",
+    "termOfUse": "利用規約",
+    "privacyPolicies": "プライバシーポリシー",
+    "agree": "に同意したとみなされます"
+  },
+  "global": {
+    "yes": "はい",
+    "no": "いいえ",
+    "save": "完了",
+    "edit": "編集",
+    "cancel": "キャンセル",
+    "ok": "ok",
+    "networkError": "インターネット接続がありません。"
+  },
+  "placeholder": {
+    "password": "••••••••",
+    "phone": "###-####-####"
+  },
+  "login": {
+    "title": "ログイン",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "emailPlaceholder": "メールアドレス",
+    "passwordPlaceholder": "パスワード",
+    "login": "ログイン",
+    "notHaveAccount": "パスワードをお忘れの方はこちら",
+    "forgotPasswordLink": "パスワードをお忘れですか？",
+    "registerLink": "会員登録はこちら"
+  },
+  "logout": {
+    "title": "ログアウト",
+    "message": "本当にログアウトしますか？"
+  },
+  "verifyEmail": {
+    "newPassword": "新しいパスワード",
+    "confirmNewPassword": "新しいパスワード（確認）",
+    "title": "新しいパスワードを設定してください"
+  },
+  "footer": {
+    "copyright": "Copyright (C) FRONTIER Co. Ltd. All Rights Reserved.",
+    "inquiry": "お問合せ",
+    "companyOverview": "運営会社概要",
+    "policy": "個人情報保護方針",
+    "term": "利用規約",
+    "faq": "よくある質問"
+  },
+  "activeAccountError": {
+    "title": "認証エラー",
+    "description_1": "認証URLの有効期限が過ぎています。",
+    "description_2": "再度、会員登録をお願い致します。",
+    "registerAgainBtn": "会員登録をする"
+  },
+  "forgotPassword": {
+    "title": "パスワード変更",
+    "sendBtn": "送信する",
+    "emailLabel": "メールアドレス",
+    "emailPlaceholder": "登録しているメールアドレスを入力してください",
+    "sendMailSuccessTitle": "パスワード再設定メール送信完了",
+    "sendMailSuccess": "ご入力いただいたメールアドレスにパスワード再設定メールを送信しました。メール本文に記載されたURLよりパスワードの再設定をお願い致します。"
+  },
+  "setNewPassword": {
+    "title": "パスワード再設定",
+    "resetBtn": "再設定する",
+    "setNewPasswordSuccessTitle": "パスワード変更完了",
+    "setNewPasswordSuccess": "パスワードが変更されました。",
+    "setNewPasswordSuccessBtn": "ログインする"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "global": {
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "ok": "Ok",
+    "networkError": "インターネット接続がありません。"
+  },
+  "validation": {
+    "permissionDenied": "Permission Denied.",
+    "objectNotFound": "Can't find the item.",
+    "somethingWentWrong": "Something went wrong.",
+    "requiredEmail": "Please enter email address."
+  },
+  "placeholder": {
+    "password": "••••••••",
+    "phone": "###-####-####"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email address",
+    "password": "Password",
+    "emailPlaceholder": "Enter your email address",
+    "passwordPlaceholder": "Enter password",
+    "login": "Login",
+    "forgotPasswordLink": "Forgot password?",
+    "notHaveAccount": "Don't have account?",
+    "registerLink": "Register"
+  },
+  "logout": {
+    "title": "Logout",
+    "message": "Are you sure you want to logout?"
+  },
+  "verifyEmail": {
+    "newPassword": "New password",
+    "confirmNewPassword": "New password(Confirm)",
+    "title": "Please set a new password"
+  },
+  "register": {
+    "title": "Member registration",
+    "register": "Register now"
+  },
+  "footer": {
+    "copyright": "Copyright (C) FRONTIER Co. Ltd. All Rights Reserved.",
+    "inquiry": "お問合せ",
+    "companyOverview": "運営会社概要",
+    "policy": "個人情報保護方針",
+    "term": "利用規約",
+    "faq": "よくある質問"
+  }
+}
